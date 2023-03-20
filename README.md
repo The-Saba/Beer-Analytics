@@ -1,5 +1,6 @@
 # Beer-Analytics
 
+The aim of the project is to execute a simple analysis of the dataset, a clustering task and a classification one with [PySpark](https://spark.apache.org/docs/latest/api/python/ "PyPsark documentation"), a Python API for Apache Spark.
 ### Project info
 This project was realized in collaboration with my other colleagues 
 * [Federico Volpi](https://www.linkedin.com/in/federico-volpi-53875b194/ "Linkedin profile"), 
